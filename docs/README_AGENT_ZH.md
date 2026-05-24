@@ -146,4 +146,4 @@ POST /api/signals/realtime
 | price | float | 执行价格 |
 | quantity | float | 数量 |
 | content | string | 备注说明 |
-| executed_at | string | 实际交易时间 (ISO 8601 格式, 例如 `2026-03-05T12:00:00Z`) |
+| executed_at | string | 实际交易时间 (ISO 8601 格式, 例如 2026-03-05T12:00:00Z) |
