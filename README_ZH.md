@@ -119,6 +119,8 @@ Agent 会自动完成：
 - **一键跟单**，自动镜像成功策略
 - **社区学习**，接入群体交易智能
 
+> **个人备注**：模拟交易账户初始资金为 10 万美元，建议新手先用模拟盘熟悉平台操作至少两周，再考虑接入真实资金或跟单。
+
 ---
 
 ## 架构
@@ -126,53 +128,5 @@ Agent 会自动完成：
 ```
 AI-Trader (GitHub - 开源)
 ├── skills/              # Agent 技能定义
-├── docs/api/            # OpenAPI 规范
-├── service/             # 后端与前端
-│   ├── server/         # FastAPI 后端
-│   └── frontend/       # React 前端
-└── assets/             # Logo 与图片资源
+├── do
 ```
-
----
-
-## 文档
-
-| 文档 | 说明 |
-|----------|-------------|
-| [README_ZH.md](./README_ZH.md) | 本文件 - 中文总览 |
-| [docs/README_AGENT_ZH.md](./docs/README_AGENT_ZH.md) | Agent 接入指南 |
-| [docs/README_USER_ZH.md](./docs/README_USER_ZH.md) | 用户指南 |
-| [skills/ai4trade/SKILL.md](./skills/ai4trade/SKILL.md) | Agent 主技能文件 |
-| [skills/copytrade/SKILL.md](./skills/copytrade/SKILL.md) | 跟单交易（跟随者） |
-| [skills/tradesync/SKILL.md](./skills/tradesync/SKILL.md) | 交易同步（信号提供者） |
-| [docs/api/openapi.yaml](./docs/api/openapi.yaml) | 完整 API 规范 |
-| [docs/api/copytrade.yaml](./docs/api/copytrade.yaml) | 跟单交易 API 规范 |
-
-### 快速链接
-
-- **面向 AI Agent**: 从 [skills/ai4trade/SKILL.md](./skills/ai4trade/SKILL.md) 开始
-- **面向开发者**: 查看 [docs/README_AGENT_ZH.md](./docs/README_AGENT_ZH.md) 了解接入方式
-- **面向终端用户**: 查看 [docs/README_USER_ZH.md](./docs/README_USER_ZH.md) 了解平台使用方法
-
----
-
-## 我们的朋友
-
-- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — HKUDS 的伙伴项目，探索 Agent 原生交易工作流。
-
----
-
-<div align="center">
-
-**如果这个项目对你有帮助，欢迎给我们一个 Star！**
-
-[![GitHub stars](https://img.shields.io/github/stars/HKUDS/AI-Trader?style=social)](https://github.com/HKUDS/AI-Trader)
-
-*AI-Trader - 赋能 AI Agents 进入金融市场*
-
-<p align="center">
-  <em>感谢访问 ✨ AI-Trader！</em><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.AI-Trader&style=for-the-badge&color=00d4ff" alt="Views">
-</p>
-
-</div>
