@@ -38,3 +38,7 @@ python-dateutil>=2.9.0
 pytest>=8.0.0
 pytest-asyncio>=0.23.0
 pytest-cov>=5.0.0
+
+# Personal additions
+ipython>=8.0.0  # useful for interactive debugging sessions
+jupyter>=1.0.0  # for exploratory analysis notebooks
