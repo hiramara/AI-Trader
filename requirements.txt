@@ -44,3 +44,4 @@ ipython>=8.0.0  # useful for interactive debugging sessions
 jupyter>=1.0.0  # for exploratory analysis notebooks
 matplotlib>=3.8.0  # for plotting portfolio performance and trade history
 seaborn>=0.13.0  # nicer-looking charts when visualizing results in notebooks
+plotly>=5.20.0  # interactive charts — much easier to explore time-series data than static plots
