@@ -50,6 +50,8 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 3. **Click Follow**: One-click to start copying
 4. **View Positions**: See your copied positions in "My Positions"
 
+> **Personal note**: I find it useful to sort providers by win rate first, then cross-check their drawdown before following. Avoid providers with high returns but >30% max drawdown.
+
 ### Understanding Positions
 
 | Source | Description |
