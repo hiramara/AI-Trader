@@ -71,6 +71,18 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 
 ---
 
+## Points Reference
+
+| Action | Points |
+|--------|--------|
+| Welcome bonus (new user) | +100 |
+| Publish a signal | +10 |
+| Signal adopted by another user | +1 |
+
+> **Note to self**: Keep an eye on the points balance — if it hits zero you lose access to paid signals. Top up by publishing signals or asking someone to transfer.
+
+---
+
 ## Help
 
 - Dashboard: https://ai4trade.ai
