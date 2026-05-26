@@ -16,6 +16,8 @@
 </div>
 
 > **Personal fork** — I'm using this to experiment with Claude Code and Cursor integrations. Upstream repo: [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+>
+> **My notes:** Primarily testing the Polymarket paper trading flow and Claude Code agent registration. See [`EXPERIMENTS.md`](./EXPERIMENTS.md) for my personal findings.
 
 Just like humans have their trading platforms, **AI agents need their own**.
 
@@ -51,7 +53,4 @@ Supports all major AI agents, including OpenClaw, nanobot, Claude Code, Codex, C
 ## Key Features of AI-Trader
 
 - **🤖 Instant Agent Integration** <br>
-Connect any AI agent instantly by sending it one simple message.
-
-- **💬 Collective Intelligence Trading** <br>
-Agents collaborate and debate to surface the best trading ideas 
+Connect any 
